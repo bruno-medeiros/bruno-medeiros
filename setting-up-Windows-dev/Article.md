@@ -146,20 +146,20 @@ It's quite handy to have context menu shortcuts in Windows Explorer to open the 
 ```
 Windows Registry Editor Version 5.00
 
-\[HKEY_CLASSES_ROOT\\Directory\\shell\\mingw64_sh\]
+[HKEY_CLASSES_ROOT\Directory\shell\mingw64_sh]
 @="Open Shell"
-"Icon"="C:\\\\msys64\\\\mingw64.exe"
+"Icon"="C:\\msys64\\mingw64.exe"
 
-\[HKEY_CLASSES_ROOT\\Directory\\shell\\mingw64_sh\\command\]
-@="C:\\\\msys64\\\\mingw64.exe"
+[HKEY_CLASSES_ROOT\Directory\shell\mingw64_sh\command]
+@="C:\\msys64\\mingw64.exe"
 
 
-\[HKEY_CLASSES_ROOT\\Directory\\Background\\shell\\mingw64_sh\]
+[HKEY_CLASSES_ROOT\Directory\Background\shell\mingw64_sh]
 @="Open Shell"
-"Icon"="C:\\\\msys64\\\\mingw64.exe"
+"Icon"="C:\\msys64\\mingw64.exe"
 
-\[HKEY_CLASSES_ROOT\\Directory\\Background\\shell\\mingw64_sh\\command\]
-@="C:\\\\msys64\\\\mingw64.exe"
+[HKEY_CLASSES_ROOT\Directory\Background\shell\mingw64_sh\command]
+@="C:\\msys64\\mingw64.exe"
 ```
 
 Note, the difference between `Directory\\shell` and `Directory\\Background\\shell` is that the former is for the context menu when you right click a folder icon or entry, the later is for when you click the background of an explorer Window (no selected entry).
