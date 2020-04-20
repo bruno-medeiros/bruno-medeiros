@@ -6,6 +6,8 @@ A selection of recommended reading in Software Engineering topics:
  * https://martinfowler.com/articles/mocksArentStubs.html - good contrast between "classical and mockist" styles of TDD.
  Also terminology and description for the various kinds of test doubles. See also: https://en.wikipedia.org/wiki/Test_double
  * https://martinfowler.com/articles/microservice-testing - good overview and explanation of various testing topics and strategies, especially when applied to microservices.
+   * Also: 
+   > Whenever some consumer couples to the interface of a component to make use of its behaviour, a contract is formed between them. This contract consists of expectations of input and output data structures, side effects and performance and concurrency characteristics. 
 
 #### Concurrency
  * https://typelevel.org/cats-effect/concurrency/basics.html - Terminology and concepts for concurrency (this is not about cats library). Of particularl interest: notes about "Asynchronous / Semantic blocking"
