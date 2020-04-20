@@ -1,10 +1,11 @@
 
 # The curriculum:
-A selection of recommended reading an
+A selection of recommended reading in Software Engineering topics:
 
 ## Testing
  * https://martinfowler.com/articles/mocksArentStubs.html - good contrast between "classical and mockist" styles of TDD.
  Also terminology and description for the various kinds of test doubles. See also: https://en.wikipedia.org/wiki/Test_double
+ * https://martinfowler.com/articles/microservice-testing - good overview and explanation of various testing topics and strategies, especially when applied to microservices.
 
 #### Concurrency
  * https://typelevel.org/cats-effect/concurrency/basics.html - Terminology and concepts for concurrency (this is not about cats library). Of particularl interest: notes about "Asynchronous / Semantic blocking"
