@@ -9,7 +9,7 @@ A selection of recommended reading in Software Engineering topics:
    * Also: 
    > Whenever some consumer couples to the interface of a component to make use of its behaviour, a contract is formed between them. This contract consists of expectations of input and output data structures, side effects and performance and concurrency characteristics. 
 
-#### Concurrency
+## Concurrency
  * https://typelevel.org/cats-effect/concurrency/basics.html - Terminology and concepts for concurrency (this is not about cats library). Of particularl interest: notes about "Asynchronous / Semantic blocking"
  * https://gist.github.com/djspiewak/46b543800958cf61af6efa8e072bfd5c - types of thread pools in JVM   
 
@@ -24,13 +24,17 @@ A selection of recommended reading in Software Engineering topics:
 ## API Evolution
  * https://cloud.google.com/apis/design/compatibility
 
+## Monitoring & Observability
+
+ * https://landing.google.com/sre/sre-book/chapters/monitoring-distributed-systems/#xref_monitoring_golden-signals
+
  
-## About specific technologies:
+# About specific technologies:
  
  * https://howhttps.works/
 
 
-## Career, management and office stuff:
+# Career, management and office stuff:
 * https://forge.medium.com/how-to-tell-an-employee-their-work-isnt-good-enough-30098949f528
 * https://blog.pragmaticengineer.com/performance-reviews-for-software-engineers/
 
