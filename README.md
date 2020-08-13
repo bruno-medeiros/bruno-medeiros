@@ -1,5 +1,4 @@
 
-# The "curriculum":
-A selection of recommended reading in Software engineering topics:
-
+# Reading Selection:
+My selection of recommended study material in the field of Software Engineering:
  * [RecommendedReading.md](RecommendedReading.md)
