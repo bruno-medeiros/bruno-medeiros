@@ -1,5 +1,5 @@
 
-# The curriculum:
+# Reading Selection:
 My selection of recommended study material in the field of Software Engineering:
 
 ## Concurrency
@@ -14,10 +14,10 @@ My selection of recommended study material in the field of Software Engineering:
    * https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/ - modern info on CAP.
 
 ## Testing
- * https://martinfowler.com/articles/mocksArentStubs.html - good contrast between "classical and mockist" styles of TDD.
- Also terminology and description for the various kinds of test doubles. See also: https://en.wikipedia.org/wiki/Test_double
+ * https://martinfowler.com/articles/mocksArentStubs.html - good contrast between "classical and mockist" styles of TDD. Also terminology and description for the various kinds of test doubles. 
+   * See also: https://en.wikipedia.org/wiki/Test_double
  * https://martinfowler.com/articles/microservice-testing - good overview and explanation of various testing topics and strategies, especially when applied to microservices.
-   * Also: 
+   * Noteworthy quote on contracts: 
    > Whenever some consumer couples to the interface of a component to make use of its behaviour, a contract is formed between them. This contract consists of expectations of input and output data structures, side effects and performance and concurrency characteristics. 
 
 
