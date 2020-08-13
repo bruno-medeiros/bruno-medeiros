@@ -1,16 +1,9 @@
 
 # The curriculum:
-A selection of recommended reading in Software Engineering topics:
-
-## Testing
- * https://martinfowler.com/articles/mocksArentStubs.html - good contrast between "classical and mockist" styles of TDD.
- Also terminology and description for the various kinds of test doubles. See also: https://en.wikipedia.org/wiki/Test_double
- * https://martinfowler.com/articles/microservice-testing - good overview and explanation of various testing topics and strategies, especially when applied to microservices.
-   * Also: 
-   > Whenever some consumer couples to the interface of a component to make use of its behaviour, a contract is formed between them. This contract consists of expectations of input and output data structures, side effects and performance and concurrency characteristics. 
+My selection of recommended study material in the field of Software Engineering:
 
 ## Concurrency
- * https://typelevel.org/cats-effect/concurrency/basics.html - Terminology and concepts for concurrency (this is not about cats library). Of particularl interest: notes about "Asynchronous / Semantic blocking"
+ * https://typelevel.org/cats-effect/concurrency/basics.html - Terminology and concepts for concurrency (this is not about cats library). Of particular interest: notes about "Asynchronous / Semantic blocking"
  * https://gist.github.com/djspiewak/46b543800958cf61af6efa8e072bfd5c - types of thread pools in JVM   
 
 ## Distributed Systems
@@ -20,33 +13,39 @@ A selection of recommended reading in Software Engineering topics:
    * http://ksat.me/a-plain-english-introduction-to-cap-theorem/ - eventual consistency & CAP in plain english
    * https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/ - modern info on CAP.
 
+## Testing
+ * https://martinfowler.com/articles/mocksArentStubs.html - good contrast between "classical and mockist" styles of TDD.
+ Also terminology and description for the various kinds of test doubles. See also: https://en.wikipedia.org/wiki/Test_double
+ * https://martinfowler.com/articles/microservice-testing - good overview and explanation of various testing topics and strategies, especially when applied to microservices.
+   * Also: 
+   > Whenever some consumer couples to the interface of a component to make use of its behaviour, a contract is formed between them. This contract consists of expectations of input and output data structures, side effects and performance and concurrency characteristics. 
 
-## API Evolution
+
+## API Management & Evolution
  * https://cloud.google.com/apis/design/compatibility
 
 ## Monitoring & Observability
-
  * https://landing.google.com/sre/sre-book/chapters/monitoring-distributed-systems/#xref_monitoring_golden-signals
 
  
-# About specific technologies:
- 
- * https://howhttps.works/
+## About specific technologies: 
+ * https://howhttps.works/ - (HTTPS and SSL)
 
 
-# Career, management and office stuff:
+## Career, company and people management:
 * https://forge.medium.com/how-to-tell-an-employee-their-work-isnt-good-enough-30098949f528
-* https://blog.pragmaticengineer.com/performance-reviews-for-software-engineers/
-
+* https://blog.pragmaticengineer.com/performance-reviews-for-software-engineers
 * https://www.meeteor.com/post/fomo-hurting-meeting-culture (meetings)
 
+## Open-Source, online communities:
+ * https://intenseminimalism.com/2020/the-impact-of-toxic-influencers-on-communities/
 
 # Old stuff, not as relevant anymore:
 
-## Java / JVM
+### Java / JVM
  * InterruptedException, how and when to use: https://www.ibm.com/developerworks/java/library/j-jtp05236/
  * How Optional is broken: https://blog.developer.atlassian.com/optional-broken/
 
 # Advanced computer science topics:
-(on hash functions quality in “The Computer Language Benchmarks Game)
-https://llogiq.github.io/2016/12/08/hash.html 
+ * On hash functions quality in “The Computer Language Benchmarks Game - https://llogiq.github.io/2016/12/08/hash.html 
+ 
