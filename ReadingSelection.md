@@ -21,8 +21,9 @@ My selection of recommended study material in the field of Software Engineering:
    > Whenever some consumer couples to the interface of a component to make use of its behaviour, a contract is formed between them. This contract consists of expectations of input and output data structures, side effects and performance and concurrency characteristics. 
 
 
-## API Management & Evolution
+## API Design & Evolution
  * https://cloud.google.com/apis/design/compatibility
+ * https://enterprisecraftsmanship.com/posts/what-is-exceptional-situation/ - How to think about exceptions and errors. Still a topic most of the Java world seems to not have figured out!
 
 ## Monitoring & Observability
  * https://landing.google.com/sre/sre-book/chapters/monitoring-distributed-systems/#xref_monitoring_golden-signals
