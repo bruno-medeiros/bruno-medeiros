@@ -8,6 +8,7 @@ My selection of recommended study material in the field of Software Engineering:
  * https://martinfowler.com/articles/microservice-testing - good overview and explanation of various testing topics and strategies, especially when applied to microservices.
    * Noteworthy quote on contracts: 
    > Whenever some consumer couples to the interface of a component to make use of its behaviour, a contract is formed between them. This contract consists of expectations of input and output data structures, side effects and performance and concurrency characteristics. 
+ * https://www.infoq.com/presentations/acceptance-testing-continuous-delivery/ - talks about importance of Continuous Delivery and Acceptance tests, also techniques and patterns (such as test isolation, abstracting system time, mocking external dependencies, etc.)  
 
 ## API Design & Evolution
  * https://cloud.google.com/apis/design/compatibility
