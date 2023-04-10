@@ -34,9 +34,10 @@ My selection of recommended study material in the field of Software Engineering:
 
 
 # Career, company and people management:
+* Meetings: https://www.meeteor.com/post/fomo-hurting-meeting-culture
+* Code reviews: https://mtlynch.io/code-review-love/
 * https://forge.medium.com/how-to-tell-an-employee-their-work-isnt-good-enough-30098949f528
 * https://blog.pragmaticengineer.com/performance-reviews-for-software-engineers
-* https://www.meeteor.com/post/fomo-hurting-meeting-culture (meetings)
 
 #### Open-Source, online communities:
  * https://intenseminimalism.com/2020/the-impact-of-toxic-influencers-on-communities/
