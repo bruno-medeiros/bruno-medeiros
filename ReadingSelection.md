@@ -2,6 +2,15 @@
 # Recommended Reading Selection:
 My selection of recommended study material in the field of Software Engineering:
 
+## Code design:
+ * Domain-Driven Design book — Eric Evans
+   * http://martinfowler.com/bliki/BoundedContext.html
+ * Error modelling: https://enterprisecraftsmanship.com/posts/what-is-exceptional-situation/ - .
+   * Still a topic most of the Java world seems to not have figured out!
+ * API Design & Evolution
+   * https://cloud.google.com/apis/design/compatibility
+   * https://www.infoq.com/articles/breaking-changes-are-broken-semver/
+
 ## Testing
  * https://martinfowler.com/articles/mocksArentStubs.html - good contrast between "classical and mockist" styles of TDD. Also terminology and description for the various kinds of test doubles. 
    * See also: https://en.wikipedia.org/wiki/Test_double
@@ -9,11 +18,6 @@ My selection of recommended study material in the field of Software Engineering:
    * Noteworthy quote on contracts: 
    > Whenever some consumer couples to the interface of a component to make use of its behaviour, a contract is formed between them. This contract consists of expectations of input and output data structures, side effects and performance and concurrency characteristics. 
  * https://www.infoq.com/presentations/acceptance-testing-continuous-delivery/ - talks about importance of Continuous Delivery and Acceptance tests, also techniques and patterns (such as test isolation, abstracting system time, mocking external dependencies, etc.)  
-
-## API Design & Evolution
- * https://enterprisecraftsmanship.com/posts/what-is-exceptional-situation/ - How to think about exceptions and errors. Still a topic most of the Java world seems to not have figured out!
- * https://cloud.google.com/apis/design/compatibility
- * https://www.infoq.com/articles/breaking-changes-are-broken-semver/
 
 ## Concurrency
  * https://typelevel.org/cats-effect/concurrency/basics.html - Terminology and concepts for concurrency (this is not about cats library). Of particular interest: notes about "Asynchronous / Semantic blocking"
@@ -26,7 +30,7 @@ My selection of recommended study material in the field of Software Engineering:
    * http://ksat.me/a-plain-english-introduction-to-cap-theorem/ - eventual consistency & CAP in plain english
    * https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/ - modern info on CAP.
 
-## Monitoring & Observability
+### Monitoring & Observability
  * https://landing.google.com/sre/sre-book/chapters/monitoring-distributed-systems/#xref_monitoring_golden-signals
 
 
