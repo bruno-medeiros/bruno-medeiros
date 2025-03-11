@@ -35,7 +35,8 @@ My selection of recommended study material in the field of Software Engineering:
 
 
 ## About specific technologies: 
- * https://howhttps.works/ - (HTTPS and SSL)
+ * HTTP and SSL: https://howhttps.works/
+ * Unicode: https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
 
 
 # Career, company and people management:
