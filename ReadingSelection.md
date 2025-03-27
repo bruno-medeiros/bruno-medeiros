@@ -11,6 +11,9 @@ My selection of recommended study material in the field of Software Engineering:
    * https://cloud.google.com/apis/design/compatibility
    * https://www.infoq.com/articles/breaking-changes-are-broken-semver/
 
+## Development Process:
+ * Tidy First: https://www.youtube.com/watch?v=Saaz6D1azlU
+
 ## Testing
  * https://martinfowler.com/articles/mocksArentStubs.html - good contrast between "classical and mockist" styles of TDD. Also terminology and description for the various kinds of test doubles. 
    * See also: https://en.wikipedia.org/wiki/Test_double
