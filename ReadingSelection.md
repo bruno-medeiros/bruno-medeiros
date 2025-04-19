@@ -29,6 +29,7 @@ My selection of recommended study material in the field of Software Engineering:
 ## Distributed Systems
  * **Lightbend Reactive Architecture** 6 course series - https://www.lightbend.com/learn/lightbend-reactive-architecture
    * Longer than a simple article, but this course series is excellent. It very well thought, it's great foundational material!
+ * https://jonasboner.com/resources/Reactive_Microservices_Architecture.pdf - 40 pages mini-book, similar info as code above.
  * CAP theorem (a bit more advanced stuff, but still important):
    * http://ksat.me/a-plain-english-introduction-to-cap-theorem/ - eventual consistency & CAP in plain english
    * https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/ - modern info on CAP.
