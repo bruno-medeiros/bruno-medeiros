@@ -7,9 +7,14 @@ My selection of recommended study material in the field of Software Engineering:
    * http://martinfowler.com/bliki/BoundedContext.html
  * Error modelling: https://enterprisecraftsmanship.com/posts/what-is-exceptional-situation/ - .
    * Still a topic most of the Java world seems to not have figured out!
+   * Rust specific: https://burntsushi.net/unwrap/#what-about-recoverable-vs-unrecoverable-errors
  * API Design & Evolution
    * https://cloud.google.com/apis/design/compatibility
    * https://www.infoq.com/articles/breaking-changes-are-broken-semver/
+  
+ * *A Philosophy of Software Design* vs Uncle Bob's *Clean Code*: 
+   * https://github.com/johnousterhout/aposd-vs-clean-code/blob/main/README.md
+   * I quite a agree with a lot of the points John makes
 
 ## Development Process:
  * Tidy First: https://www.youtube.com/watch?v=Saaz6D1azlU
