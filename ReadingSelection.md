@@ -47,6 +47,8 @@ My selection of recommended study material in the field of Software Engineering:
  * HTTP and SSL: https://howhttps.works/
  * Unicode: https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
 
+## Rust:
+ * Never snooze a future: https://jacko.io/snooze.html
 
 # Career, company and people management:
 * Meetings: https://www.meeteor.com/post/fomo-hurting-meeting-culture
@@ -54,12 +56,12 @@ My selection of recommended study material in the field of Software Engineering:
 * https://forge.medium.com/how-to-tell-an-employee-their-work-isnt-good-enough-30098949f528
 * https://blog.pragmaticengineer.com/performance-reviews-for-software-engineers
 
-#### Open-Source, online communities:
+### Open-Source, online communities:
  * https://intenseminimalism.com/2020/the-impact-of-toxic-influencers-on-communities/
 
 # Old stuff, not as relevant anymore:
 
-#### Java / JVM
+### Java / JVM
  * InterruptedException, how and when to use: https://www.ibm.com/developerworks/java/library/j-jtp05236/
  * How Optional is broken: https://blog.developer.atlassian.com/optional-broken/
 
