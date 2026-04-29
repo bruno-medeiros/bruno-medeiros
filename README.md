@@ -7,7 +7,9 @@ Senior software engineer focused on distributed systems, complex technical probl
 Currently exploring low-latency/HFT systems in Rust:
 
 ### Projects
- * [**Low Latency / HFT demos**](https://github.com/bruno-medeiros/rust-low-latency-hft) — Limit order book engine:  hot-path operations in order of tens of nanoseconds, zero heap allocations. Includes benchmarking report, methodology, flamegraphs, and a few other related projects.
+ * [**Low Latency / HFT demos**](https://github.com/bruno-medeiros/rust-low-latency-hft):
+   * Order matching engine (limit order book): p99 add/cancel ≈80ns, ≈44M ops/sec, zero heap allocations on the hot path. Includes benchmarking report, methodology, flamegraphs, and optimization journey.
+   * Market-data handler: UDP → reorder packets→ decode → book → strategy; zero allocations across pipeline, tick-to-trade benchmark with: p90: ≈50ns | p99 ≈1.5μs.
 
 ### Links:
  * [Bruno Medeiros @ Medium](https://bruno-medeiros.medium.com/) - Some of my thoughts on technology and software development - new blog in Medium.
